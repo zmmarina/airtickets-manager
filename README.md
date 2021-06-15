@@ -6,6 +6,5 @@
 <h3>:construction: Functionalities</h3>
 <ul>
 <li>Add flights</li>
-<li>Remove flights</li>
-<li>Change dates</li>
+<li>Update dates of flights</li>
 </ul>
